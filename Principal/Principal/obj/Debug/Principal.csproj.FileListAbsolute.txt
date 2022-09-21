@@ -1,0 +1,11 @@
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.csproj.AssemblyReference.cache
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\JAZM\source\repos\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\JAZM\source\repos\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\JAZM\source\repos\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\JAZM\source\repos\Principal\Principal\obj\Debug\Principal.pdb
